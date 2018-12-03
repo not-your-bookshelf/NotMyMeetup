@@ -1,0 +1,6 @@
+framework module Pods_NotMyMeetupsTests {
+  umbrella header "Pods-NotMyMeetupsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

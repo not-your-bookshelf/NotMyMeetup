@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>182551519973-rq5pr49jt92anj3b3u3eqabtkchcvbg4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182551519973-rq5pr49jt92anj3b3u3eqabtkchcvbg4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMeLxQqWkhJwXsEnk9Hxf6BS6D79Z1UCQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182551519973</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nyu.edu.NotMyMeetups</string>
+	<key>PROJECT_ID</key>
+	<string>not-your-bookshelf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>not-your-bookshelf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182551519973:ios:ba371b6df00ea345</string>
+	<key>DATABASE_URL</key>
+	<string>https://not-your-bookshelf.firebaseio.com</string>
+</dict>
+</plist>

@@ -10,6 +10,9 @@ import UIKit
 
 class ViewControllerTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var labelEvent: UILabel!
+    @IBOutlet weak var labelDate: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
